@@ -1,1 +1,1 @@
-# htmlcheetsheet
+This cheet sheet is fully customisable as it uses prism css and can be used for many languages such as HTML, CSS, JS, Python etc. This is a template and can be modified for many languages. You can openly use this framework but remember to give credits to me. :) PEACEEE
